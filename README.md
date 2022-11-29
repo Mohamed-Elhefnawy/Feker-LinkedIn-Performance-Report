@@ -6,7 +6,7 @@
 - Comparison with Competitors Quarter Performance: new followers, total followers, posts and engagement by Companies.
 - Total Followers Demographics: total followers by country, industry, seniority, job function and company size.
 ####  <li><a href="Summary">Summary: notes and outlines of the quarter report</a></li>
-####  <li><a href="#Conclusion">Conclusion: comments and tips for the future to perform better</a></li>
+####  <li><a href="#Conclusion">Conclusion: comments and tips to perform better</a></li>
 ------------------------------------------------------------------------------------------------------------------------------------
 <a id='Report'></a>
 ### Report
