@@ -9,7 +9,7 @@
 ####  <li><a href="#Feedback">Feedback: comments and tips for the future.</a></li>
 ------------------------------------------------------------------------------------------------------------------------------------
 <a id='Report'></a>
-### Report: Analysis & Visualizatioon
+### Report
 - https://www.novypro.com/project/feker-linkedin-performance-report-q2
 ------------------------------------------------------------------------------------------------------------------------------------
 <a id='Conclusion'></a>
